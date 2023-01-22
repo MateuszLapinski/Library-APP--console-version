@@ -8,7 +8,7 @@ public class Main {
         biblioteka.bookadding();
 
         while(shouldContinue) {
-            System.out.println("Wybierz opcję");
+            System.out.println("Choose an option:");
             System.out.println("1. Wyświetl dostępne książki");
             System.out.println("2. Dodaj książkę");
             System.out.println("3. Wyświetl książki nieprzeczytane");

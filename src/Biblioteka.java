@@ -72,6 +72,7 @@ public class Biblioteka {
         Book book7= new Book("Krzyżacy","Sienkiewicz", true);
         Book book8= new Book("Eragon","Paulini", true);
         Book book9= new Book("Miecz przeznaczenia","Sapkowski", true);
+        Book book10= new Book("Krótka historia czasu", "Hawking", false);
 
         books.add(book1);
         books.add(book2);
@@ -82,6 +83,7 @@ public class Biblioteka {
         books.add(book7);
         books.add(book8);
         books.add(book9);
+        books.add(book10);
     }
 
 }

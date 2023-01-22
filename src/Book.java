@@ -25,7 +25,7 @@ public class Book {
         System.out.println("Tytuł: "+ title);
         System.out.println("Autor: "+ author);
         String isReadString= isRead? "Tak" : "Nie";
-        System.out.println("Przeczytana ? " + isReadString);
+        System.out.println("Przeczytana? " + isReadString);
         System.out.println();
 
     }
