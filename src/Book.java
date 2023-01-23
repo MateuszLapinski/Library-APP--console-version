@@ -22,10 +22,10 @@ public class Book {
     }
 
     public void displayBookInformation() {
-        System.out.println("Tytuł: "+ title);
-        System.out.println("Autor: "+ author);
-        String isReadString= isRead? "Tak" : "Nie";
-        System.out.println("Przeczytana? " + isReadString);
+        System.out.println("Title: "+ title);
+        System.out.println("Author: "+ author);
+        String isReadString= isRead? "Yes" : "No";
+        System.out.println("Is Reading? " + isReadString);
         System.out.println();
 
     }
